@@ -33,7 +33,7 @@ featured: true
 
 links:
   - type: pdf
-    file: "Alexis.pdf"
+    url: "https://drive.google.com/file/d/1bJloVdXypzvLUkW1YuIBCUsMPf3LoD9o/view"
   - type: code
     url: "https://github.com/uhanif6/Alexis"
   - type: dataset
@@ -50,6 +50,6 @@ image:
   focal_point: ""
   preview_only: false
 
-projects: []
-slides: ""
+# projects: []
+# slides: ""
 ---
