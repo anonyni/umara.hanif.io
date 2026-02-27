@@ -64,11 +64,11 @@ Right now I am:
 - tightening the threat model and assumptions,
 - and clarifying how ENVOT compares to prior work in terms of **latency, energy, and robustness**.
 
-I’ve submitted a **conference version of ENVOT to IEEE GLOBECOM**, and I’m waiting to see how the reviews go.
+I’m waiting to see how it will go after major revisoon submission.
 
 ### Crashing Smarter and Catching in IoT-Class FPGAs
 
-I’m also revising a paper on **“crashing smarter and catching in IoT-class FPGAs”**, which currently has a **major revision** decision.
+I’m also revising a paper on **“crashing smarter and catching faster in IoT-class FPGAs”**, which currently also has a **major revision** decision.
 
 My focus here is to:
 
