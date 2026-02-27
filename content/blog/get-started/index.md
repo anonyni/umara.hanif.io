@@ -56,7 +56,7 @@ Alongside the thesis, I’m actively working on revising and submitting papers b
 
 ### ENVOT
 
-**ENVOT** is my framework for **secure attestation of IoT swarms using ensemble learning**.  
+**ENVOT** is a framework for **secure attestation of IoT swarms using ensemble learning**.
 
 Right now I am:
 
@@ -64,7 +64,7 @@ Right now I am:
 - tightening the threat model and assumptions,
 - and clarifying how ENVOT compares to prior work in terms of **latency, energy, and robustness**.
 
-I’m waiting to see how it will go after major revisoon submission.
+I’m waiting to see how it will go after major revision submission.
 
 ### Crashing Smarter and Catching in IoT-Class FPGAs
 
@@ -77,6 +77,12 @@ My focus here is to:
 - and better explain the practical implications for real IoT-class FPGA deployments.
 
 It’s a lot of back-and-forth between code, experiments, and reviewer comments—but it’s also where the work really sharpens.
+
+### FFAT (WOOT ’26 Submission)
+
+I also submitted **\textit{FFAT: A Semantics-Driven Framework for Robust and Scalable FPGA Fuzzing and Anomaly Detection}** to **USENIX WOOT ’26**.
+
+This work focuses on improving the scalability and robustness of FPGA fuzzing by incorporating semantics-aware guidance to surface meaningful anomalies, strengthen coverage, and better characterize runtime security risks in FPGA-based systems.
 
 ## 3. Searching for My First Full-Time Role
 

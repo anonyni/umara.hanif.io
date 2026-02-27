@@ -33,23 +33,23 @@ featured: true
 
 links:
   - type: pdf
-    url: ""
+    file: "Alexis.pdf"
   - type: code
     url: "https://github.com/uhanif6/Alexis"
   - type: dataset
     url: "https://dx.doi.org/10.21227/aqc1-dv65"
-  - type: slides
-    url: ""
-  - type: video
-    url: ""
-  - type: source
-    url: ""
+  # - type: slides
+  #   url: ""
+  # - type: video
+  #   url: ""
+  # - type: source
+  #   url: ""
 
 image:
   caption: "Alexis framework for FPGA bitstream anomaly detection"
   focal_point: ""
   preview_only: false
 
-projects: []
-slides: ""
----
+# projects: []
+# slides: ""
+# ---
